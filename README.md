@@ -8,7 +8,7 @@ package.xml is updated with the appropriate dependencies
 ## Launch File
 Launch the sim with the following command:
 
-	$roslaunch tutle_hw1 turtle_launch.xml T_tur:= "value"
+	$roslaunch turtle_hw1 turtle_launch.xml T_tur:= "value"
 
 The T_tur argument allows the user to input the desired period over which the turtlesim will complete the Figure 8 trajectory. Replace "value" with the desied time for one loop in seconds.
 
