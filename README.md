@@ -1,6 +1,6 @@
 # Turtlesim: Publisher/Subcriber Program
 
- ##Task: 
+ ## Task: 
  Create a publisher node to publish a desired trajectory over the cmd_vel topic to the subscriber turtlesim
 
 package.xml is updated with the appropriate dependencies
